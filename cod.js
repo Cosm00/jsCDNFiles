@@ -186,7 +186,7 @@ function populateHighlightedStats(title, stats, username) {
         'winLossRatio',
         'scorePerMinute',
         'gulagWLRatio',
-        'highestWinstreak'
+        'highestWinstreak',
         'wzWins',
         'wzQuadsWins',
         'wzTriosWins',
