@@ -185,14 +185,14 @@ function populateHighlightedStats(title, stats, username) {
         'losses',
         'winLossRatio',
         'scorePerMinute',
+        'gulagWLRatio',
+        'highestWinstreak'
         'wzWins',
         'wzQuadsWins',
         'wzTriosWins',
         'wzDuosWins',
         'wzSolosWins',
-        'totalTimePlayed',
-        'gulagWLRatio',
-        'highestWinstreak'
+        'totalTimePlayed'
     ];
     const statsHighlight = document.getElementById('highlightedStatsList');
     statsHighlight.innerHTML = ''; // Clear existing content
