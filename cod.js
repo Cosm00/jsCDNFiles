@@ -190,7 +190,9 @@ function populateHighlightedStats(title, stats, username) {
         'wzTriosWins',
         'wzDuosWins',
         'wzSolosWins',
-        'totalTimePlayed'
+        'totalTimePlayed',
+        'gulagWLRatio',
+        'highestWinstreak'
     ];
     const statsHighlight = document.getElementById('highlightedStatsList');
     statsHighlight.innerHTML = ''; // Clear existing content
@@ -260,7 +262,9 @@ function getFullForm(key) {
         'wzQuadsWins': 'Total Quad Wins',
         'wzTriosWins': 'Total Trio Wins',
         'wzDuosWins': 'Total Duo Wins',
-        'wzSolosWins': 'Total Solo Wins'
+        'wzSolosWins': 'Total Solo Wins',
+        'gulagWLRatio': 'Gulag W/L Ratio',
+        'highestWinstreak' : 'Winstreak Record'
     };
 
     // Return the full form if it exists, otherwise return the original key
@@ -286,7 +290,9 @@ function formatStatKey(key) {
         'wzQuadsWins': 'Quad Wins',
         'wzTriosWins': 'Trio Wins',
         'wzDuosWins': 'Duo Wins',
-        'wzSolosWins': 'Solo Wins'
+        'wzSolosWins': 'Solo Wins',
+        'gulagWLRatio': 'Gulag W/L',
+        'highestWinstreak' : 'WS-PR'
     };
 
     // Return the abbreviation if it exists, otherwise return the original key
