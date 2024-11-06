@@ -1,7 +1,117 @@
 [
     {
-        "title" : "test",
-        "image" : "https://www.google.com",
-        "pid" : "1234567"
+        "title": "Funko POP! Jumbo: Pokemon Dialga 10-in Vinyl Figure 2024 New York Comic Con Exclusive",
+        "image": "https://media.gamestop.com/i/gamestop/20002103_ALT01/Funko-POP-Jumbo-Pokemon-Dialga-10-in-Vinyl-Figure-2024-New-York-Comic-Con-Exclusive",
+        "pid": "357435"
+    },
+    {
+        "title": "Funko POP! Jumbo: Pokemon Arceus 10-in Vinyl Figure 2024 San Diego Comic Con Exclusive",
+        "image": "https://media.gamestop.com/i/gamestop/20014418_ALT01",
+        "pid": "393511"
+    },
+    {
+        "title": "Funko POP! Dungeons and Dragons Lord Soth Vinyl Figure 2024 San Diego Comic Con Exclusive",
+        "image": "https://media.gamestop.com/i/gamestop/20014420_ALT01/Funko-POP-Dungeons-and-Dragons-Lord-Soth-4.5-in-Vinyl-Figure-2024-San-Diego-Comic-Con-Exclusive",
+        "pid": "402552"
+    },
+    {
+        "title": "Funko POP! Animation: Naruto Shippuden Gaara Vinyl Figure 2024 San Diego Comic Con Exclusive",
+        "image": "https://media.gamestop.com/i/gamestop/20014419_ALT01",
+        "pid": "402531"
+    },
+    {
+        "title": "PlayStation 5 Slim Console Digital Edition: 30th Anniversary Limited Edition Bundle",
+        "image": "https://i.imgur.com/BNDix6E.jpeg",
+        "pid": "416192"
+    },
+    {
+        "title": "DualSense Wireless Controller: 30th Anniversary Limited Edition",
+        "image": "https://i.imgur.com/F8iPnMR.jpeg",
+        "pid": "416193"
+    },
+    {
+        "title": "Disc Drive For PS5 Digital Edition Consoles",
+        "image": "https://i.imgur.com/r4DNDNO.jpeg",
+        "pid": "402415"
+    },
+    {
+        "title": "DualSense Edge Wireless Controller",
+        "image": "https://i.imgur.com/eZmzBO8.jpeg",
+        "pid": "359710"
+    },
+    {
+        "title": "DualSense Wireless Controller: Fortnite Limited Edition",
+        "image": "https://i.imgur.com/xSJYTR8.jpeg",
+        "pid": "416490"
+    },
+    {
+        "title": "DualSense Wireless Controller: Astro Bot Limited Edition",
+        "image": "https://i.imgur.com/6ZHSnP5.jpeg",
+        "pid": "414462"
+    },
+    {
+        "title": "DualSense Wireless Controller: Spider-Man Limited Edition",
+        "image": "https://i.imgur.com/M5dCBvK.png",
+        "pid": "398277"
+    },
+    {
+        "title": "RIFFMASTER Wireless Guitar Controller For Playstation 5, 4",
+        "image": "https://i.imgur.com/0edk4DW.jpeg",
+        "pid": "406197"
+    },
+    {
+        "title": "RIFFMASTER Wireless Guitar Controller For Xbox Series X, S, Xbox One, Windows 10/11",
+        "image": "https://i.imgur.com/mEcvUSO.jpeg",
+        "pid": "406198"
+    },
+    {
+        "title": "PlayStation 5 Slim Console: Disc Edition",
+        "image": "https://i.imgur.com/YBFXqM6.jpeg",
+        "pid": "402379"
+    },
+    {
+        "title": "PlayStation 5 Slim Console: Digital Edition",
+        "image": "https://i.imgur.com/r8uOsqx.jpeg",
+        "pid": "402378"
+    },
+    {
+        "title": "PlayStation 5 Slim Console: Digital Edition 2K25 Bundle",
+        "image": "https://i.imgur.com/EtcX4Oe.jpeg",
+        "pid": "414879"
+    },
+    {
+        "title": "Xbox Series X 1TB Console: Carbon Black",
+        "image": "https://i.imgur.com/zxuINJe.jpeg",
+        "pid": "224744"
+    },
+    {
+        "title": "Xbox Series X 1TB Console: Robot White Digital Edition",
+        "image": "https://i.imgur.com/8jCGStD.png",
+        "pid": "415038"
+    },
+    {
+        "title": "Xbox Series S 1TB Console: Robot White Digital Edition",
+        "image": "https://i.imgur.com/ioQxEXI.jpeg",
+        "pid": "224746"
+    },
+    {
+        "title": "Nintendo Switch with Neon Blue and Neon Red Joy‑Con",
+        "image": "https://i.imgur.com/yKo1dOu.jpeg",
+        "pid": "352673"
+    },
+    {
+        "title": "Nintendo Switch OLED Model: Mario Kart 8 Deluxe Bundle",
+        "image": "https://i.imgur.com/u5k1HRQ.png",
+        "pid": "415419"
+    },
+    {
+        "title": "Nintendo Switch OLED Model: White Joy-Con",
+        "image": "https://i.imgur.com/SNXgQ8u.jpeg",
+        "pid": "299009"
+    },
+    {
+        "title": "Nintendo Switch OLED Model: The Legend of Zelda - Tears of the Kingdom Edition",
+        "image": "https://i.imgur.com/HD5QVIn.jpeg",
+        "pid": "392581"
     }
 ]
