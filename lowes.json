@@ -1,7 +1,35 @@
 [
     {
-        "title" : "test",
-        "image" : "https://www.google.com",
-        "pid" : "1234567"
+        "title" : "DEWALT 20V MAX 2-Tool Brushless Power Tool Combo Kit with Soft Case (2-Batteries and Charger Included)",
+        "image" : "https://mobileimages.lowes.com/productimages/6a843d0d-5c02-4b55-96af-c0c2808c754c/61711420.jpg?size=pdhism",
+        "pid" : "5220849"
+    },{
+        "title" : "DEWALT XR POWER DETECT 2-Tool 20-Volt Max Brushless Power Tool Combo Kit with Soft Case (2-Batteries and charger Included)",
+        "image" : "https://mobileimages.lowes.com/productimages/1bac2181-81c8-4ce5-8cd5-d1532db95b27/63057430.jpg?size=pdhism",
+        "pid" : "1597144"
+    },{
+        "title" : "CRAFTSMAN V20 20-volt Max 2-Tool Power Tool Combo Kit with Soft Case (2-Batteries Included and Charger Included)",
+        "image" : "https://mobileimages.lowes.com/productimages/9ce763bf-b33e-4b10-946b-755166629452/09224783.jpg?size=pdhism",
+        "pid" : "1045301"
+    },{
+        "title" : "CRAFTSMAN V20 20-volt Max 6-Tool Power Tool Combo Kit with Soft Case (2-Batteries Included and Charger Included)",
+        "image" : "https://mobileimages.lowes.com/productimages/55426067-d8cc-49e5-bcc5-1f34c0bd88dc/63609868.jpg?size=pdhism",
+        "pid" : "4911591"
+    },{
+        "title" : "DEWALT XTREME 2-Tool 12V MAX XR Brushless DrilI/Impact Driver with Bag (2-Batteries and Charger Included)",
+        "image" : "https://mobileimages.lowes.com/productimages/816abe9d-512d-4cbe-be0c-2a5f9a10f391/68091826.jpeg?size=pdhism",
+        "pid" : "1323366"
+    },{
+        "title" : "DEWALT 7-Tool Site Ready Combo Kit",
+        "image" : "https://mobileimages.lowes.com/productimages/a6ba7a33-7da4-4fe1-9e6a-1d201ddddb9a/67962132.jpeg?size=pdhism",
+        "pid" : "6505705"
+    },{
+        "title" : "Kobalt Next-Gen 24-volt 4-Tool Brushless Power Tool Combo Kit with Soft Case (1-Battery Included and Charger Included)",
+        "image" : "https://mobileimages.lowes.com/productimages/5f4ee591-2316-452e-8532-c0d9bb22023e/68541905.png?size=pdhism",
+        "pid" : "4913885"
+    },{
+        "title" : "DEWALT 20V MAX XR 3-Tool Brushless Woodworking Power Tool Combo Kit with Soft Case (2-Batteries and Charger Included)",
+        "image" : "https://mobileimages.lowes.com/productimages/5c3ec6a6-6380-4b86-9cb2-a53ce5f8215d/68263578.jpeg?size=pdhism",
+        "pid" : "5341861"
     }
 ]
