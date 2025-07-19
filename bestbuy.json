@@ -1,55 +1,70 @@
 [
     {
         "title": "Nintendo Switch 2",
-        "image": "https://media.gamestop.com/i/gamestop/20019700/Nintendo-Switch-2?$pdp2x$",   "pid": "6614313"
-    },{
+        "image": "https://media.gamestop.com/i/gamestop/20019700/Nintendo-Switch-2?$pdp2x$",
+        "pid": "6614313"
+    },
+    {
         "title": "Nintendo Switch 2 Console and Mario Kart World Bundle",
-        "image": "https://media.gamestop.com/i/gamestop/20021651/Nintendo-Switch-2-Console-and-Mario-Kart-World-Bundle?$pdp2x$",   "pid": "6614325"
-    },{
+        "image": "https://media.gamestop.com/i/gamestop/20021651/Nintendo-Switch-2-Console-and-Mario-Kart-World-Bundle?$pdp2x$",
+        "pid": "6614325"
+    },
+    {
         "title": "White Flare Binder",
-        "image": "https://media.gamestop.com/i/gamestop/20021661",
+        "image": "https://i.imgur.com/pi60MxO.jpeg",
         "pid": "6632390"
-    },{
+    },
+    {
         "title": "White Flare ETB",
-        "image": "https://media.gamestop.com/i/gamestop/20021658",
+        "image": "https://i.imgur.com/BWEtc64.jpeg",
         "pid": "6632394"
-    },{
+    },
+    {
         "title": "White Flare 3 Pack",
-        "image": "https://media.gamestop.com/i/gamestop/20021650/Pokemon-Trading-Card-Game-White-Flare-Tech-Sticker-Collection-3-Pack-Blister",
+        "image": "https://i.imgur.com/8fHQh05.jpeg",
         "pid": "6632395"
-    },{
+    },
+    {
         "title": "White Flare Booster Bundle",
-        "image": "https://media.gamestop.com/i/gamestop/20021664",
+        "image": "https://i.imgur.com/FEJsXQr.jpeg",
         "pid": "6632399"
-    },{
+    },
+    {
         "title": "Black Bolt Binder",
-        "image": "https://media.gamestop.com/i/gamestop/20021660",
+        "image": "https://i.imgur.com/CLThqZD.jpeg",
         "pid": "6632388"
-    },{
+    },
+    {
         "title": "Black Bolt ETB",
-        "image": "https://media.gamestop.com/i/gamestop/20021662",
+        "image": "https://i.imgur.com/02qV3AJ.jpeg",
         "pid": "6632397"
-    },{
+    },
+    {
         "title": "Black Bolt 3 Pack",
-        "image": "https://media.gamestop.com/i/gamestop/20021659/Pokemon-Trading-Card-Game-Black-Bolt-Tech-Sticker-Collection-3-Pack-Blister",
+        "image": "https://i.imgur.com/3fmGSOJ.jpeg",
         "pid": "6632393"
-    },{
+    },
+    {
         "title": "Black Bolt Booster Bundle",
-        "image": "https://media.gamestop.com/i/gamestop/20021649",
+        "image": "https://i.imgur.com/plEnAF4.jpeg",
         "pid": "6632402"
-    },{
+    },
+    {
         "title": "WF/BB Poster Collection",
-        "image": "https://media.gamestop.com/i/gamestop/20021657",
+        "image": "https://i.imgur.com/sF3Dc5a.jpeg",
         "pid": "6632400"
-    },{
+    },
+    {
         "title": "WF/BB Mini Tins",
-        "image": "https://media.gamestop.com/i/gamestop/20021653",
+        "image": "https://i.imgur.com/fXjx2sA.jpeg",
         "pid": "6632392"
-    },{
+    },
+    {
         "title": "Pokemon Trading Card Game Prismatic Evolutions Super Premium Collection",
         "image": "https://media.gamestop.com/i/gamestop/20020881_ALT06?$pdp2x$",
         "pid": "6621081"
-    },{
+    },
+    {
         "title": "Pokemon Trading Card Game Scarlet Violet Journey Together Booster Box 36 Packs",
         "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/cb4ed79e-d0fa-4ce2-b832-bcde5683ab2d.jpg;maxHeight=1080;maxWidth=900?format=webp",
         "pid": "6614262"
@@ -128,7 +143,8 @@
         "title": "Pokemon - Trading Card Game: Scarlet & Violet - Prismatic Evolutions Elite Trainer Box",
         "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7fc8c738-8c50-4773-8002-639de5676e48.jpg;maxHeight=1080;maxWidth=900?format=webp",
         "pid": "6606082"
-    },{
+    },
+    {
         "title": "Nvidia RTX 5080 Founders Edition",
         "image": "https://i.imgur.com/PusyvZc.png",
         "pid": "6614153"
