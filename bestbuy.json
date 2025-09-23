@@ -1,282 +1,232 @@
 [
     {
-        "title": "Nintendo Switch 2",
-        "image": "https://media.gamestop.com/i/gamestop/20019700/Nintendo-Switch-2?$pdp2x$",
-        "pid": "6614313"
+        "title": "Phantasmal Flames Elite Trainer Box",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/55b95998-bfce-46bd-99a2-991e977161be.png;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "6645345"
     },
     {
-        "title": "Nintendo Switch 2 Console and Mario Kart World Bundle",
-        "image": "https://media.gamestop.com/i/gamestop/20021651/Nintendo-Switch-2-Console-and-Mario-Kart-World-Bundle?$pdp2x$",
-        "pid": "6614325"
+        "title": "Phantasmal Flames Booster Bundle",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f81c6345-500b-4b7c-9875-173ec0f848f5.png;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "6645343"
     },
     {
-        "title": "Unova Victini Collection",
-        "image": "https://i.imgur.com/CrCD2n3.jpeg",
-        "pid": "6632391"
+        "title": "Phantasmal Flames Sleeved Booster",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/fa523e12-69d0-47b8-93d6-c98a33ef082c.jpg;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "6645340"
+    },
+    {
+        "title": "Phantasmal Flames 3-Pack",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f437d50e-f96c-4e95-8150-14076fb94edd.png;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "6645342"
+    },
+    {
+        "title": "Phantasmal Flames Booster Box",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b00aa00c-a94d-405a-a425-d02494bb3616.png;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "6645341"
+    },
+    {
+        "title": "Phantasmal Flames Ultra Premium Collection",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8d051f3e-4799-496c-8850-1c89d7faa918.png;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "6644581"
+    },
+    {
+        "title": "Mega Evolutions 3-Pack",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1f760f46-d24e-45c8-839e-4d2be18d611c.png;maxHeight=828;maxWidth=400?format=webp",
+        "pid": "428269"
+    },
+    {
+        "title": "Mega Evolutions Elite Trainer Box",
+        "image": "https://i.imgur.com/CTOxISb.png",
+        "pid": "428260"
+    },
+    {
+        "title": "Mega Evolutions Mini Tins",
+        "image": "https://i.imgur.com/GBqcfmg.jpeg",
+        "pid": "428270"
+    },
+    {
+        "title": "Mega Evolutions Booster Bundle",
+        "image": "https://media.gamestop.com/i/gamestop/20023793",
+        "pid": "428265"
+    },
+    {
+        "title": "Mega Evolutions Build & Battle Box",
+        "image": "https://media.gamestop.com/i/gamestop/20023791/Pokemon-Trading-Card-Game-Mega-Evolution-Build-and-Battle-Box",
+        "pid": "428288"
+    },
+    {
+        "title": "Mega Latias Box",
+        "image": "https://media.gamestop.com/i/gamestop/20024246_ALT01?$pdp$?w=1256&h=664&fmt=auto",
+        "pid": "428228"
+    },
+    {
+        "title": "Mega Evolutions Booster Box",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/d6510ac1-078c-49d8-baf5-623a6ee4166a.png;maxHeight=828;maxWidth=400?format=webp",
+        "pid": "428257"
+    },
+    {
+        "title": "Prismatic Evolutions Super Premium Collection",
+        "image": "https://media.gamestop.com/i/gamestop/20020881_ALT06?$pdp2x$",
+        "pid": "422620"
+    },
+    {
+        "title": "Prismatic Evolutions Poster",
+        "image": "https://media.gamestop.com/i/gamestop/20018506/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Poster-Collection",
+        "pid": "417632"
+    },
+    {
+        "title": "Prismatic Evolutions Two-Pack Blister",
+        "image": "https://media.gamestop.com/i/gamestop/20018749/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Blister---Two-Pack",
+        "pid": "418758"
+    },
+    {
+        "title": "Prismatic Evolutions Mini Tin",
+        "image": "https://media.gamestop.com/i/gamestop/20018747/Pokemon-Trading-Card-Game-Prismatic-Evolutions--Mini-Tin-Styles-May-Vary",
+        "pid": "418756"
+    },
+    {
+        "title": "Prismatic Evolutions Surprise Box",
+        "image": "https://media.gamestop.com/i/gamestop/20018748/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Surprise-Box-Styles-May-Vary?$pdp2x$",
+        "pid": "418757"
+    },
+    {
+        "title": "Prismatic Evolutions Elite Trainer Box",
+        "image": "https://media.gamestop.com/i/gamestop/20018505/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Elite-Trainer-Box?$pdp2x$",
+        "pid": "417631"
+    },
+    {
+        "title": "Prismatic Evolutions Binder Collection",
+        "image": "https://media.gamestop.com/i/gamestop/20018509/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Binder-Collection?$pdp2x$",
+        "pid": "417633"
+    },
+    {
+        "title": "Prismatic Evolutions Booster Bundle",
+        "image": "https://media.gamestop.com/i/gamestop/20018824/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Booster-Bundle?$pdp2x$",
+        "pid": "418865"
+    },
+    {
+        "title": "Prismatic Evolutions Tech Sticker Collection",
+        "image": "https://media.gamestop.com/i/gamestop/20018508/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Tech-Sticker-Collection?$pdp2x$",
+        "pid": "417634"
+    },
+    {
+        "title": "Prismatic Evolutions Premium Figure Collection",
+        "image": "https://media.gamestop.com/i/gamestop/20023800/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Premium-Figure-Collection?w=768&h=768&fmt=auto",
+        "pid": "428272"
     },
     {
         "title": "White Flare Binder",
         "image": "https://i.imgur.com/pi60MxO.jpeg",
-        "pid": "6632390"
+        "pid": "426105"
     },
     {
-        "title": "White Flare ETB",
+        "title": "White Flare Elite Trainer Box",
         "image": "https://i.imgur.com/BWEtc64.jpeg",
-        "pid": "6632394"
+        "pid": "426103"
     },
     {
-        "title": "White Flare 3 Pack",
+        "title": "White Flare 3-Pack",
         "image": "https://i.imgur.com/8fHQh05.jpeg",
-        "pid": "6632395"
+        "pid": "426120"
     },
     {
         "title": "White Flare Booster Bundle",
         "image": "https://i.imgur.com/FEJsXQr.jpeg",
-        "pid": "6632399"
+        "pid": "426123"
     },
     {
         "title": "Black Bolt Binder",
         "image": "https://i.imgur.com/CLThqZD.jpeg",
-        "pid": "6632388"
+        "pid": "426104"
     },
     {
-        "title": "Black Bolt ETB",
+        "title": "Black Bolt Elite Trainer Box",
         "image": "https://i.imgur.com/02qV3AJ.jpeg",
-        "pid": "6632397"
+        "pid": "426102"
     },
     {
-        "title": "Black Bolt 3 Pack",
+        "title": "Black Bolt 3-Pack",
         "image": "https://i.imgur.com/3fmGSOJ.jpeg",
-        "pid": "6632393"
+        "pid": "426119"
     },
     {
         "title": "Black Bolt Booster Bundle",
         "image": "https://i.imgur.com/plEnAF4.jpeg",
-        "pid": "6632402"
+        "pid": "426122"
     },
     {
-        "title": "WF/BB Poster Collection",
+        "title": "Unova Victini Collection",
+        "image": "https://i.imgur.com/CrCD2n3.jpeg",
+        "pid": "426121"
+    },
+    {
+        "title": "Unova Poster Collection",
         "image": "https://i.imgur.com/sF3Dc5a.jpeg",
-        "pid": "6632400"
+        "pid": "426115"
     },
     {
-        "title": "WF/BB Mini Tins",
+        "title": "Unova Mini Tins",
         "image": "https://i.imgur.com/fXjx2sA.jpeg",
-        "pid": "6632392"
+        "pid": "426112"
     },
     {
-        "title": "Pokemon Trading Card Game Prismatic Evolutions Super Premium Collection",
-        "image": "https://media.gamestop.com/i/gamestop/20020881_ALT06?$pdp2x$",
-        "pid": "6621081"
-    },
-    {
-        "title": "Pokemon Trading Card Game Scarlet Violet Journey Together Booster Box 36 Packs",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/cb4ed79e-d0fa-4ce2-b832-bcde5683ab2d.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6614262"
-    },
-    {
-        "title": "Pokemon Trading Card Game Scarlet Violet Journey Together Elite Trainer Box",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1edd2862-a885-4256-bb56-514e0ba1978e.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6614267"
-    },
-    {
-        "title": "Pokemon Trading Card Game Scarlet Violet Journey Together Booster Bundle 6 Pk",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e9304dfc-e6e2-422a-a03d-deed3b109f50.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6614264"
-    },
-    {
-        "title": "Pokemon Trading Card Game Scarlet Violet Journey Together Sleeved Booster Styles May Vary",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f88cfa9c-efde-4fd7-9a18-bc278fc08fc7.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6614259"
-    },
-    {
-        "title": "Pokemon Trading Card Game Scarlet Violet Journey Together 3 Pk Booster Styles May Vary",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/00718520-ef0e-4511-b1c0-5d96e22ea645.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6614260"
-    },
-    {
-        "title": "Pokemon Trading Card Game Scarlet Violet Destined Rivals Booster Box 36 Packs",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/dbe09ed1-41af-469a-8705-70c25c2cfc8a.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6624826"
-    },
-    {
-        "title": "Pokemon Trading Card Game Scarlet Violet Destined Rivals 6pk Booster Bundle",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/beeb21eb-26c0-40e3-b70c-a5d35ebea934.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6624828"
-    },
-    {
-        "title": "Pokemon Trading Card Game Scarlet Violet Destined Rivals Elite Trainer Box",
+        "title": "Destined Rivals Elite Trainer Box",
         "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7218d7af-36f1-4cc1-b8e0-271e27dacaa2.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6624825"
+        "pid": "424445"
     },
     {
-        "title": "Pokemon Trading Card Game Scarlet Violet Destined Rivals Sleeved Booster Styles May Vary",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c2164a52-0307-4d66-8696-e06db9750446.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6624827"
+        "title": "Destined Rivals Booster Box",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/dbe09ed1-41af-469a-8705-70c25c2cfc8a.jpg;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "424442"
     },
     {
-        "title": "Pokemon Trading Card Game Scarlet Violet Destined Rivals 3pk Booster Styles May Vary",
+        "title": "Destined Rivals Booster Bundle",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/beeb21eb-26c0-40e3-b70c-a5d35ebea934.jpg;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "424446"
+    },
+    {
+        "title": "Destined Rivals 3-Pack Blister",
         "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/736c874c-6093-45c0-a187-393daa57214a.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6624830"
+        "pid": "424448"
     },
     {
-        "title": "Pokemon - Trading Card Game: Team Rocket's Mewtwo ex Box",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/418d13d4-33a1-41ff-b1f4-09fdf9b66c21.png;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6625125"
+        "title": "Destined Rivals Build & Battle Box",
+        "image": "https://i.imgur.com/0a3Ir8i.jpeg",
+        "pid": "424449"
     },
     {
-        "title": "Pokemon - Trading Card Game: Cynthias Garchomp ex Premium Collection",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7e885ecd-116a-469b-9a9c-7c4a038f6bb8.png;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6625124"
+        "title": "Destined Rivals Booster Pack",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c2164a52-0307-4d66-8696-e06db9750446.jpg;maxHeight=1080;maxWidth=900?format=webp",
+        "pid": "424436"
     },
     {
-        "title": "Pokemon - Trading Card Game: Scarlet & Violet Prismatic Evolutions Super-Premium Collection",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3725fbcf-f17d-4964-8fbf-a8b3dccdac95.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6621081"
+        "title": "Destined Rivals Garchomp Box",
+        "image": "https://i.imgur.com/z9cmotj.png",
+        "pid": "424435"
     },
     {
-        "title": "Pokemon - Trading Card Game: 151 6pk Booster Bundle",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6548/6548371_sd.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6548371"
+        "title": "151 Elite Trainer Box",
+        "image": "https://media.gamestop.com/i/gamestop/20006082?$pdp2x$",
+        "pid": "395213"
     },
     {
-        "title": "Pokemon - Trading Card Game: Scarlet & Violet - Prismatic Evolutions Booster Bundle",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f89aea71-efa5-459a-92f3-d2532e1e5f05.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6608206"
+        "title": "151 Booster Bundle",
+        "image": "https://media.gamestop.com/i/gamestop/20006081?$pdp2x$",
+        "pid": "395207"
     },
     {
-        "title": "Pokemon - Trading Card Game: Scarlet & Violet - Prismatic Evolutions Elite Trainer Box",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7fc8c738-8c50-4773-8002-639de5676e48.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6606082"
+        "title": "151 Zapdos ex Collection",
+        "image": "https://media.gamestop.com/i/gamestop/20006085?$pdp2x$",
+        "pid": "395210"
     },
     {
-        "title": "Nvidia RTX 5080 Founders Edition",
-        "image": "https://i.imgur.com/PusyvZc.png",
-        "pid": "6614153"
+        "title": "151 Blooming Waters Premium Collection",
+        "image": "https://media.gamestop.com/i/gamestop/20018822/Pokemon-Trading-Card-Game-Blooming-Waters-Premium-Collection?w=1256&h=664&fmt=auto",
+        "pid": "418863"
     },
     {
-        "title": "Nvidia RTX 5090 Founders Edition",
-        "image": "https://i.imgur.com/fuHtJY4.png",
-        "pid": "6614151"
-    },
-    {
-        "title": "Nvidia RTX 5070 Founders Edition",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e4405fe8-605c-418e-83b3-89140b4102dc.jpg",
-        "pid": "6614154"
-    },
-    {
-        "title": "PlayStation 5 Digital Console Fortnite Cobalt Star Bundle",
-        "image": "https://target.scene7.com/is/image/Target/GUEST_e21a82be-f456-4c6b-9a50-d623bfbea1a3",
-        "pid": "6599015"
-    },
-    {
-        "title": "PlayStation 5 Disc Console Fortnite Cobalt Star Bundle",
-        "image": "https://target.scene7.com/is/image/Target/GUEST_1d727739-723f-4c5e-a860-f28775f406e8",
-        "pid": "6599014"
-    },
-    {
-        "title": "PlayStation 5 Pro Console",
-        "image": "https://target.scene7.com/is/image/Target/GUEST_221282a8-da0b-415b-8668-91ac57594067",
-        "pid": "6601524"
-    },
-    {
-        "title": "PlayStation 5 Slim Console Digital Edition: 30th Anniversary Limited Edition Bundle",
-        "image": "https://i.imgur.com/BNDix6E.jpeg",
-        "pid": "6602619"
-    },
-    {
-        "title": "DualSense Wireless Controller: 30th Anniversary Limited Edition",
-        "image": "https://i.imgur.com/F8iPnMR.jpeg",
-        "pid": "6602544"
-    },
-    {
-        "title": "Disc Drive For PS5 Digital Edition Consoles",
-        "image": "https://i.imgur.com/r4DNDNO.jpeg",
-        "pid": "6565695"
-    },
-    {
-        "title": "DualSense Edge Wireless Controller",
-        "image": "https://i.imgur.com/eZmzBO8.jpeg",
-        "pid": "6532912"
-    },
-    {
-        "title": "DualSense Wireless Controller: Fortnite Limited Edition",
-        "image": "https://i.imgur.com/xSJYTR8.jpeg",
-        "pid": "6603348"
-    },
-    {
-        "title": "DualSense Wireless Controller: Astro Bot Limited Edition",
-        "image": "https://i.imgur.com/6ZHSnP5.jpeg",
-        "pid": "6595107"
-    },
-    {
-        "title": "DualSense Wireless Controller: Spider-Man Limited Edition",
-        "image": "https://i.imgur.com/M5dCBvK.png",
-        "pid": "6554390"
-    },
-    {
-        "title": "RIFFMASTER Wireless Guitar Controller For Playstation 5, 4",
-        "image": "https://i.imgur.com/0edk4DW.jpeg",
-        "pid": "6579283"
-    },
-    {
-        "title": "RIFFMASTER Wireless Guitar Controller For Xbox Series X, S, Xbox One, Windows 10/11",
-        "image": "https://i.imgur.com/mEcvUSO.jpeg",
-        "pid": "6579284"
-    },
-    {
-        "title": "PlayStation 5 Slim Console: Disc Edition",
-        "image": "https://i.imgur.com/YBFXqM6.jpeg",
-        "pid": "6566039"
-    },
-    {
-        "title": "PlayStation 5 Slim Console: Digital Edition",
-        "image": "https://i.imgur.com/r8uOsqx.jpeg",
-        "pid": "6566040"
-    },
-    {
-        "title": "PlayStation 5 Slim Console: Digital Edition 2K25 Bundle",
-        "image": "https://i.imgur.com/EtcX4Oe.jpeg",
-        "pid": "6595648"
-    },
-    {
-        "title": "Xbox Series X 2TB Console: Galaxy Black Special Edition",
-        "image": "https://i.imgur.com/VDnS82U.png",
-        "pid": "6595698"
-    },
-    {
-        "title": "Xbox Series X 1TB Console: Carbon Black",
-        "image": "https://i.imgur.com/zxuINJe.jpeg",
-        "pid": "6428324"
-    },
-    {
-        "title": "Xbox Series X 1TB Console: Robot White Digital Edition",
-        "image": "https://i.imgur.com/8jCGStD.png",
-        "pid": "6595697"
-    },
-    {
-        "title": "Xbox Series S 1TB Console: Robot White Digital Edition",
-        "image": "https://i.imgur.com/ioQxEXI.jpeg",
-        "pid": "6595695"
-    },
-    {
-        "title": "Nintendo Switch with Neon Blue and Neon Red Joy‑Con",
-        "image": "https://i.imgur.com/yKo1dOu.jpeg",
-        "pid": "6522225"
-    },
-    {
-        "title": "Nintendo Switch OLED Model: Mario Kart 8 Deluxe Bundle",
-        "image": "https://i.imgur.com/u5k1HRQ.png",
-        "pid": "6352464"
-    },
-    {
-        "title": "Nintendo Switch OLED Model: White Joy-Con",
-        "image": "https://i.imgur.com/SNXgQ8u.jpeg",
-        "pid": "6470923"
-    },
-    {
-        "title": "Nintendo Switch OLED Model: The Legend of Zelda - Tears of the Kingdom Edition",
-        "image": "https://i.imgur.com/HD5QVIn.jpeg",
-        "pid": "6540265"
+        "title": "151 Ultra Premium Collection",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_60663694-4352-48f5-a8b8-ad41b7f4ddbf",
+        "pid": "395208"
     }
 ]
