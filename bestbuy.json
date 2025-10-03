@@ -1,232 +1,217 @@
 [
-    {
-        "title": "Phantasmal Flames Elite Trainer Box",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/55b95998-bfce-46bd-99a2-991e977161be.png;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6645345"
-    },
-    {
-        "title": "Phantasmal Flames Booster Bundle",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f81c6345-500b-4b7c-9875-173ec0f848f5.png;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6645343"
-    },
-    {
-        "title": "Phantasmal Flames Sleeved Booster",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/fa523e12-69d0-47b8-93d6-c98a33ef082c.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6645340"
-    },
-    {
-        "title": "Phantasmal Flames 3-Pack",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f437d50e-f96c-4e95-8150-14076fb94edd.png;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6645342"
-    },
-    {
-        "title": "Phantasmal Flames Booster Box",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b00aa00c-a94d-405a-a425-d02494bb3616.png;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6645341"
-    },
-    {
-        "title": "Phantasmal Flames Ultra Premium Collection",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8d051f3e-4799-496c-8850-1c89d7faa918.png;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "6644581"
-    },
-    {
-        "title": "Mega Evolutions 3-Pack",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1f760f46-d24e-45c8-839e-4d2be18d611c.png;maxHeight=828;maxWidth=400?format=webp",
-        "pid": "428269"
-    },
-    {
-        "title": "Mega Evolutions Elite Trainer Box",
-        "image": "https://i.imgur.com/CTOxISb.png",
-        "pid": "428260"
-    },
-    {
-        "title": "Mega Evolutions Mini Tins",
-        "image": "https://i.imgur.com/GBqcfmg.jpeg",
-        "pid": "428270"
-    },
-    {
-        "title": "Mega Evolutions Booster Bundle",
-        "image": "https://media.gamestop.com/i/gamestop/20023793",
-        "pid": "428265"
-    },
-    {
-        "title": "Mega Evolutions Build & Battle Box",
-        "image": "https://media.gamestop.com/i/gamestop/20023791/Pokemon-Trading-Card-Game-Mega-Evolution-Build-and-Battle-Box",
-        "pid": "428288"
-    },
-    {
-        "title": "Mega Latias Box",
-        "image": "https://media.gamestop.com/i/gamestop/20024246_ALT01?$pdp$?w=1256&h=664&fmt=auto",
-        "pid": "428228"
-    },
-    {
-        "title": "Mega Evolutions Booster Box",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/d6510ac1-078c-49d8-baf5-623a6ee4166a.png;maxHeight=828;maxWidth=400?format=webp",
-        "pid": "428257"
-    },
-    {
-        "title": "Prismatic Evolutions Super Premium Collection",
-        "image": "https://media.gamestop.com/i/gamestop/20020881_ALT06?$pdp2x$",
-        "pid": "422620"
-    },
-    {
-        "title": "Prismatic Evolutions Poster",
-        "image": "https://media.gamestop.com/i/gamestop/20018506/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Poster-Collection",
-        "pid": "417632"
-    },
-    {
-        "title": "Prismatic Evolutions Two-Pack Blister",
-        "image": "https://media.gamestop.com/i/gamestop/20018749/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Blister---Two-Pack",
-        "pid": "418758"
-    },
-    {
-        "title": "Prismatic Evolutions Mini Tin",
-        "image": "https://media.gamestop.com/i/gamestop/20018747/Pokemon-Trading-Card-Game-Prismatic-Evolutions--Mini-Tin-Styles-May-Vary",
-        "pid": "418756"
-    },
-    {
-        "title": "Prismatic Evolutions Surprise Box",
-        "image": "https://media.gamestop.com/i/gamestop/20018748/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Surprise-Box-Styles-May-Vary?$pdp2x$",
-        "pid": "418757"
-    },
-    {
-        "title": "Prismatic Evolutions Elite Trainer Box",
-        "image": "https://media.gamestop.com/i/gamestop/20018505/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Elite-Trainer-Box?$pdp2x$",
-        "pid": "417631"
-    },
-    {
-        "title": "Prismatic Evolutions Binder Collection",
-        "image": "https://media.gamestop.com/i/gamestop/20018509/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Binder-Collection?$pdp2x$",
-        "pid": "417633"
-    },
-    {
-        "title": "Prismatic Evolutions Booster Bundle",
-        "image": "https://media.gamestop.com/i/gamestop/20018824/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Booster-Bundle?$pdp2x$",
-        "pid": "418865"
-    },
-    {
-        "title": "Prismatic Evolutions Tech Sticker Collection",
-        "image": "https://media.gamestop.com/i/gamestop/20018508/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Tech-Sticker-Collection?$pdp2x$",
-        "pid": "417634"
-    },
-    {
-        "title": "Prismatic Evolutions Premium Figure Collection",
-        "image": "https://media.gamestop.com/i/gamestop/20023800/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Premium-Figure-Collection?w=768&h=768&fmt=auto",
-        "pid": "428272"
-    },
-    {
-        "title": "White Flare Binder",
-        "image": "https://i.imgur.com/pi60MxO.jpeg",
-        "pid": "426105"
-    },
-    {
-        "title": "White Flare Elite Trainer Box",
-        "image": "https://i.imgur.com/BWEtc64.jpeg",
-        "pid": "426103"
-    },
-    {
-        "title": "White Flare 3-Pack",
-        "image": "https://i.imgur.com/8fHQh05.jpeg",
-        "pid": "426120"
-    },
-    {
-        "title": "White Flare Booster Bundle",
-        "image": "https://i.imgur.com/FEJsXQr.jpeg",
-        "pid": "426123"
-    },
-    {
-        "title": "Black Bolt Binder",
-        "image": "https://i.imgur.com/CLThqZD.jpeg",
-        "pid": "426104"
-    },
-    {
-        "title": "Black Bolt Elite Trainer Box",
-        "image": "https://i.imgur.com/02qV3AJ.jpeg",
-        "pid": "426102"
-    },
-    {
-        "title": "Black Bolt 3-Pack",
-        "image": "https://i.imgur.com/3fmGSOJ.jpeg",
-        "pid": "426119"
-    },
-    {
-        "title": "Black Bolt Booster Bundle",
-        "image": "https://i.imgur.com/plEnAF4.jpeg",
-        "pid": "426122"
-    },
-    {
-        "title": "Unova Victini Collection",
-        "image": "https://i.imgur.com/CrCD2n3.jpeg",
-        "pid": "426121"
-    },
-    {
-        "title": "Unova Poster Collection",
-        "image": "https://i.imgur.com/sF3Dc5a.jpeg",
-        "pid": "426115"
-    },
-    {
-        "title": "Unova Mini Tins",
-        "image": "https://i.imgur.com/fXjx2sA.jpeg",
-        "pid": "426112"
-    },
-    {
-        "title": "Destined Rivals Elite Trainer Box",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7218d7af-36f1-4cc1-b8e0-271e27dacaa2.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "424445"
-    },
-    {
-        "title": "Destined Rivals Booster Box",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/dbe09ed1-41af-469a-8705-70c25c2cfc8a.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "424442"
-    },
-    {
-        "title": "Destined Rivals Booster Bundle",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/beeb21eb-26c0-40e3-b70c-a5d35ebea934.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "424446"
-    },
-    {
-        "title": "Destined Rivals 3-Pack Blister",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/736c874c-6093-45c0-a187-393daa57214a.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "424448"
-    },
-    {
-        "title": "Destined Rivals Build & Battle Box",
-        "image": "https://i.imgur.com/0a3Ir8i.jpeg",
-        "pid": "424449"
-    },
-    {
-        "title": "Destined Rivals Booster Pack",
-        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c2164a52-0307-4d66-8696-e06db9750446.jpg;maxHeight=1080;maxWidth=900?format=webp",
-        "pid": "424436"
-    },
-    {
-        "title": "Destined Rivals Garchomp Box",
-        "image": "https://i.imgur.com/z9cmotj.png",
-        "pid": "424435"
-    },
-    {
-        "title": "151 Elite Trainer Box",
-        "image": "https://media.gamestop.com/i/gamestop/20006082?$pdp2x$",
-        "pid": "395213"
-    },
-    {
-        "title": "151 Booster Bundle",
-        "image": "https://media.gamestop.com/i/gamestop/20006081?$pdp2x$",
-        "pid": "395207"
-    },
-    {
-        "title": "151 Zapdos ex Collection",
-        "image": "https://media.gamestop.com/i/gamestop/20006085?$pdp2x$",
-        "pid": "395210"
-    },
-    {
-        "title": "151 Blooming Waters Premium Collection",
-        "image": "https://media.gamestop.com/i/gamestop/20018822/Pokemon-Trading-Card-Game-Blooming-Waters-Premium-Collection?w=1256&h=664&fmt=auto",
-        "pid": "418863"
-    },
-    {
-        "title": "151 Ultra Premium Collection",
-        "image": "https://target.scene7.com/is/image/Target/GUEST_60663694-4352-48f5-a8b8-ad41b7f4ddbf",
-        "pid": "395208"
-    }
+  {
+    "title": "Phantasmal Flames Elite Trainer Box",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/55b95998-bfce-46bd-99a2-991e977161be.png;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6645345"
+  },
+  {
+    "title": "Phantasmal Flames Booster Bundle",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f81c6345-500b-4b7c-9875-173ec0f848f5.png;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6645343"
+  },
+  {
+    "title": "Phantasmal Flames Sleeved Booster",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/fa523e12-69d0-47b8-93d6-c98a33ef082c.jpg;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6645340"
+  },
+  {
+    "title": "Phantasmal Flames 3-Pack",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/f437d50e-f96c-4e95-8150-14076fb94edd.png;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6645342"
+  },
+  {
+    "title": "Phantasmal Flames Booster Box",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b00aa00c-a94d-405a-a425-d02494bb3616.png;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6645341"
+  },
+  {
+    "title": "Phantasmal Flames Ultra Premium Collection",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8d051f3e-4799-496c-8850-1c89d7faa918.png;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6644581"
+  },
+  {
+    "title": "Mega Evolutions 3-Pack",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1f760f46-d24e-45c8-839e-4d2be18d611c.png;maxHeight=828;maxWidth=400?format=webp",
+    "pid": "6639101"
+  },
+  {
+    "title": "Mega Evolutions Elite Trainer Box",
+    "image": "https://i.imgur.com/CTOxISb.png",
+    "pid": "6639103"
+  },
+  {
+    "title": "Mega Evolutions Mini Tins",
+    "image": "https://i.imgur.com/GBqcfmg.jpeg",
+    "pid": "6639102"
+  },
+  {
+    "title": "Mega Evolutions Booster Bundle",
+    "image": "https://media.gamestop.com/i/gamestop/20023793",
+    "pid": "6639108"
+  },
+  {
+    "title": "Mega Evolutions Booster Box",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/d6510ac1-078c-49d8-baf5-623a6ee4166a.png;maxHeight=828;maxWidth=400?format=webp",
+    "pid": "6639109"
+  },
+  {
+    "title": "Prismatic Evolutions Super Premium Collection",
+    "image": "https://media.gamestop.com/i/gamestop/20020881_ALT06?$pdp2x$",
+    "pid": "6621081"
+  },
+  {
+    "title": "Prismatic Evolutions Poster",
+    "image": "https://media.gamestop.com/i/gamestop/20018506/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Poster-Collection",
+    "pid": "6606080"
+  },
+  {
+    "title": "Prismatic Evolutions Two-Pack Blister",
+    "image": "https://media.gamestop.com/i/gamestop/20018749/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Blister---Two-Pack",
+    "pid": "6607716"
+  },
+  {
+    "title": "Prismatic Evolutions Mini Tin",
+    "image": "https://media.gamestop.com/i/gamestop/20018747/Pokemon-Trading-Card-Game-Prismatic-Evolutions--Mini-Tin-Styles-May-Vary",
+    "pid": "6607719"
+  },
+  {
+    "title": "Prismatic Evolutions Surprise Box",
+    "image": "https://media.gamestop.com/i/gamestop/20018748/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Surprise-Box-Styles-May-Vary?$pdp2x$",
+    "pid": "6607717"
+  },
+  {
+    "title": "Prismatic Evolutions Elite Trainer Box",
+    "image": "https://media.gamestop.com/i/gamestop/20018505/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Elite-Trainer-Box?$pdp2x$",
+    "pid": "6606082"
+  },
+  {
+    "title": "Prismatic Evolutions Binder Collection",
+    "image": "https://media.gamestop.com/i/gamestop/20018509/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Binder-Collection?$pdp2x$",
+    "pid": "6606079"
+  },
+  {
+    "title": "Prismatic Evolutions Booster Bundle",
+    "image": "https://media.gamestop.com/i/gamestop/20018824/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Booster-Bundle?$pdp2x$",
+    "pid": "6608206"
+  },
+  {
+    "title": "Prismatic Evolutions Tech Sticker Collection",
+    "image": "https://media.gamestop.com/i/gamestop/20018508/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Tech-Sticker-Collection?$pdp2x$",
+    "pid": "6606078"
+  },
+  {
+    "title": "Prismatic Evolutions Premium Figure Collection",
+    "image": "https://media.gamestop.com/i/gamestop/20023800/Pokemon-Trading-Card-Game-Prismatic-Evolutions-Premium-Figure-Collection?w=768&h=768&fmt=auto",
+    "pid": "6639107"
+  },
+  {
+    "title": "White Flare Binder",
+    "image": "https://i.imgur.com/pi60MxO.jpeg",
+    "pid": "6632390"
+  },
+  {
+    "title": "White Flare Elite Trainer Box",
+    "image": "https://i.imgur.com/BWEtc64.jpeg",
+    "pid": "6632394"
+  },
+  {
+    "title": "White Flare 3-Pack",
+    "image": "https://i.imgur.com/8fHQh05.jpeg",
+    "pid": "6632395"
+  },
+  {
+    "title": "White Flare Booster Bundle",
+    "image": "https://i.imgur.com/FEJsXQr.jpeg",
+    "pid": "6632399"
+  },
+  {
+    "title": "Black Bolt Binder",
+    "image": "https://i.imgur.com/CLThqZD.jpeg",
+    "pid": "6632388"
+  },
+  {
+    "title": "Black Bolt Elite Trainer Box",
+    "image": "https://i.imgur.com/02qV3AJ.jpeg",
+    "pid": "6632397"
+  },
+  {
+    "title": "Black Bolt 3-Pack",
+    "image": "https://i.imgur.com/3fmGSOJ.jpeg",
+    "pid": "6632393"
+  },
+  {
+    "title": "Black Bolt Booster Bundle",
+    "image": "https://i.imgur.com/plEnAF4.jpeg",
+    "pid": "6632402"
+  },
+  {
+    "title": "Unova Victini Collection",
+    "image": "https://i.imgur.com/CrCD2n3.jpeg",
+    "pid": "6632391"
+  },
+  {
+    "title": "Unova Poster Collection",
+    "image": "https://i.imgur.com/sF3Dc5a.jpeg",
+    "pid": "6632400"
+  },
+  {
+    "title": "Unova Mini Tins",
+    "image": "https://i.imgur.com/fXjx2sA.jpeg",
+    "pid": "6632392"
+  },
+  {
+    "title": "Destined Rivals Elite Trainer Box",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7218d7af-36f1-4cc1-b8e0-271e27dacaa2.jpg;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6624825"
+  },
+  {
+    "title": "Destined Rivals Booster Box",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/dbe09ed1-41af-469a-8705-70c25c2cfc8a.jpg;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6624826"
+  },
+  {
+    "title": "Destined Rivals Booster Bundle",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/beeb21eb-26c0-40e3-b70c-a5d35ebea934.jpg;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6624828"
+  },
+  {
+    "title": "Destined Rivals 3-Pack Blister",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/736c874c-6093-45c0-a187-393daa57214a.jpg;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6624827"
+  },
+  {
+    "title": "Destined Rivals Booster Pack",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c2164a52-0307-4d66-8696-e06db9750446.jpg;maxHeight=1080;maxWidth=900?format=webp",
+    "pid": "6624827"
+  },
+  {
+    "title": "Destined Rivals Garchomp Box",
+    "image": "https://i.imgur.com/z9cmotj.png",
+    "pid": "6625124"
+  },
+  {
+    "title": "151 Elite Trainer Box",
+    "image": "https://media.gamestop.com/i/gamestop/20006082?$pdp2x$",
+    "pid": "6548366"
+  },
+  {
+    "title": "151 Booster Bundle",
+    "image": "https://media.gamestop.com/i/gamestop/20006081?$pdp2x$",
+    "pid": "6548371"
+  },
+  {
+    "title": "151 Zapdos ex Collection",
+    "image": "https://media.gamestop.com/i/gamestop/20006085?$pdp2x$",
+    "pid": "6548370"
+  },
+  {
+    "title": "151 Blooming Waters Premium Collection",
+    "image": "https://media.gamestop.com/i/gamestop/20018822/Pokemon-Trading-Card-Game-Blooming-Waters-Premium-Collection?w=1256&h=664&fmt=auto",
+    "pid": "6609201"
+  },
+  {
+    "title": "151 Ultra Premium Collection",
+    "image": "https://target.scene7.com/is/image/Target/GUEST_60663694-4352-48f5-a8b8-ad41b7f4ddbf",
+    "pid": "6548367"
+  }
 ]
